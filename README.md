@@ -5,11 +5,8 @@
 <!--https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true-->
 <!--https://global-uploads.webflow.com/5e0ac69bad6badc677c5db21/6136efdd077934476ce23eb7_coder.gif-->
 
-- 🔭 Working as a Software Developer at Environmental Design Solutions, Pvt. Ltd.
-- 🏆 My primary coding and problem-solving language: is C++
-- 🎀 MSc Computer Science from National Institute of Technology, Tiruchirappalli.
-- 🌱 I’m currently working on HTML, CSS, JS and PHP.
-- 📫 How to reach me kumarrajeev66797@gmail.com
+- 🔭 Environmental Design Solutions, Pvt. Ltd.
+- 🏆 This Repo is build for EDS, to keep eds related projects here.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
